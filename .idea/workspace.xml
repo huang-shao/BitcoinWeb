@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dbcb70a-12c1-4a72-a204-2c11da125f74" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1lv1PpPnR8PWHvWkHeEtW1rTzNf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GoProjects\src\Bitcoin\static\css" />
+      <recent name="C:\Users\GoProjects\src\Bitcoin\static\img" />
+      <recent name="C:\Users\GoProjects\src\Bitcoin\views" />
+      <recent name="C:\Users\GoProjects\src\Bitcoin\static\js" />
+      <recent name="C:\Users\GoProjects\src\Bitcoin\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build Bitcoin">
+    <configuration name="go build Bitcoin" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bitcoin" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="Bitcoin" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bitcoin/static/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build Bitcoin" />
+        <item itemvalue="JavaScript Debug.login.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="131" key="FileChooserDialogImpl" timestamp="1608514019742">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="131" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1608514019742" />
+    <state width="1387" height="210" key="GridCell.Tab.0.bottom" timestamp="1608552551535">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1387" height="210" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1608552551535" />
+    <state width="1387" height="210" key="GridCell.Tab.0.center" timestamp="1608552551535">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1387" height="210" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1608552551535" />
+    <state width="1387" height="210" key="GridCell.Tab.0.left" timestamp="1608552551535">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1387" height="210" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1608552551535" />
+    <state width="1387" height="210" key="GridCell.Tab.0.right" timestamp="1608552551535">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1387" height="210" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1608552551535" />
+    <state x="324" y="118" width="792" height="624" key="find.popup" timestamp="1608465056517">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="324" y="118" width="792" height="624" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1608465056517" />
+  </component>
+</project>
