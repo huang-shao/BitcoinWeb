@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dbcb70a-12c1-4a72-a204-2c11da125f74" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/static/css/blog-common.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bundle-SimpleMemory-mobile.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/cnblog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/160881174814.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/L2Dwidget.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/L2Dwidget.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/blog-common.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/blogStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/canvas-nest.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery-2.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.engine3D.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.particlePhysics.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.starfieldTagCloud.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/mouse.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/reload.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/show.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/default.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/default.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +36,8 @@
       <list>
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="HTML4 File" />
       </list>
     </option>
   </component>
@@ -29,20 +53,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\GoProjects\src\Bitcoin\static\css" />
-      <recent name="C:\Users\GoProjects\src\Bitcoin\static\img" />
-      <recent name="C:\Users\GoProjects\src\Bitcoin\views" />
       <recent name="C:\Users\GoProjects\src\Bitcoin\static\js" />
+      <recent name="C:\Users\GoProjects\src\Bitcoin\static\css" />
+      <recent name="C:\Users\GoProjects\src\Bitcoin\views" />
+      <recent name="C:\Users\GoProjects\src\Bitcoin\static\img" />
       <recent name="C:\Users\GoProjects\src\Bitcoin\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GoProjects\src\Bitcoin\static\img" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build Bitcoin">
@@ -68,29 +96,44 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="450" y="131" key="FileChooserDialogImpl" timestamp="1608514019742">
+    <state x="450" y="131" key="FileChooserDialogImpl" timestamp="1609207927978">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="450" y="131" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1608514019742" />
-    <state width="1387" height="210" key="GridCell.Tab.0.bottom" timestamp="1608552565130">
+    <state x="450" y="131" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1609207927978" />
+    <state width="1387" height="177" key="GridCell.Tab.0.bottom" timestamp="1609376800271">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1387" height="210" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1608552565130" />
-    <state width="1387" height="210" key="GridCell.Tab.0.center" timestamp="1608552565130">
+    <state width="1387" height="177" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1609376800271" />
+    <state width="1387" height="177" key="GridCell.Tab.0.center" timestamp="1609376800271">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1387" height="210" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1608552565130" />
-    <state width="1387" height="210" key="GridCell.Tab.0.left" timestamp="1608552565130">
+    <state width="1387" height="177" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1609376800271" />
+    <state width="1387" height="177" key="GridCell.Tab.0.left" timestamp="1609376800270">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1387" height="210" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1608552565130" />
-    <state width="1387" height="210" key="GridCell.Tab.0.right" timestamp="1608552565130">
+    <state width="1387" height="177" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1609376800270" />
+    <state width="1387" height="177" key="GridCell.Tab.0.right" timestamp="1609376800271">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1387" height="210" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1608552565130" />
+    <state width="1387" height="177" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1609376800271" />
     <state x="324" y="118" width="792" height="624" key="find.popup" timestamp="1608465056517">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="324" y="118" width="792" height="624" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1608465056517" />
+    <state x="299" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1608813129442">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="299" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1608813129442" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

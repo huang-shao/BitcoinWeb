@@ -59,6 +59,7 @@ a {
     height: 700px;
 }
 
+
 .icon {
     display: inline-flex;
     justify-content: center;
@@ -95,6 +96,7 @@ a {
 
 .menu {
     display: flex;
+    width: 500px;
     flex-direction: column;
 }
 
