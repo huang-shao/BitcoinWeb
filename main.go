@@ -1,6 +1,7 @@
 package main
 
 import (
+<<<<<<< HEAD
 	"BitcoinWeb/db_mysql"
 	_ "BitcoinWeb/routers"
 	"github.com/astaxie/beego"
@@ -19,4 +20,15 @@ func main() {
 
 	
 }
+=======
+	"beegoText/db_mysql"
+	_ "beegoText/routers"
+)
+
+func main() {
+	//1.连接数据库,
+	db_mysql.ConnectDB()
+
+ }
+>>>>>>> origin/hrx
 

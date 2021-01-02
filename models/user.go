@@ -1,8 +1,13 @@
 package models
 
 import (
+<<<<<<< HEAD
 	"BitcoinWeb/db_mysql"
 	"BitcoinWeb/utils"
+=======
+	"beegoText/db_mysql"
+	"beegoText/utils"
+>>>>>>> origin/hrx
 )
 
 type User struct {
@@ -19,10 +24,13 @@ func (u User) SaveUser() (int64, error) {
 	u.Password = utils.MD5HashString(u.Password)
 
 	//2、执行数据库操作
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> origin/hrx
 	row, err := db_mysql.Db.Exec("insert into user(phone, password) "+
 		" values(?,?) ", u.Phone, u.Password)
 	if err != nil {

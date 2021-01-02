@@ -1,7 +1,11 @@
 package controllers
 
 import (
+<<<<<<< HEAD
 	"BitcoinWeb/models"
+=======
+	"beegoText/models"
+>>>>>>> origin/hrx
 	"fmt"
 	"github.com/astaxie/beego"
 )
@@ -19,6 +23,7 @@ func (r *RegisterController) Post() {
 		r.Ctx.WriteString("抱歉，解析数据错误，请重试！")
 		return
 	}
+<<<<<<< HEAD
 
 
 	fmt.Println("用户: ", user.Phone)
@@ -28,13 +33,20 @@ func (r *RegisterController) Post() {
 
 
 
+=======
+	fmt.Println("用户: ", user.Phone)
+	fmt.Println("密码: ", user.Password)
+>>>>>>> origin/hrx
 	//2.保存用户信息到数据库
 	id, err := user.SaveUser()
 
 
 	//3.返回前端结果(成功跳转页面，失败弹出错误信息)
 	if err != nil {
+<<<<<<< HEAD
 		fmt.Println(err.Error())
+=======
+>>>>>>> origin/hrx
 		r.Ctx.WriteString("注册失败,该用户已经注册！")
 		return
 	}

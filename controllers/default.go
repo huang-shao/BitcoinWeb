@@ -9,6 +9,7 @@ type MainController struct {
 }
 
 func (c *MainController) Get() {
+<<<<<<< HEAD
 
 
 	c.TplName = "login.html"
@@ -32,3 +33,7 @@ func (c *MainController) Get() {
 
 }
 
+=======
+	c.TplName = "login.html"
+}
+>>>>>>> origin/hrx
