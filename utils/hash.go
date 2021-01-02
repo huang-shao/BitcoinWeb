@@ -2,14 +2,14 @@ package utils
 
 import (
 	"crypto/md5"
-<<<<<<< HEAD
+
 	"crypto/sha256"
 	"encoding/hex"
 	"io"
 	"io/ioutil"
-=======
-	"encoding/hex"
->>>>>>> origin/hrx
+
+
+
 )
 
 func MD5HashString(data string) string {
@@ -18,7 +18,7 @@ func MD5HashString(data string) string {
 	psswordBytes := md5Hash.Sum(nil)
 	return hex.EncodeToString(psswordBytes)
 }
-<<<<<<< HEAD
+
 
 /**
  * 对一个io操作的reader（通常为文件)进行数据读取，并计算hash，返回md5哈希值
@@ -40,5 +40,3 @@ func SHA256Hash(data []byte) ([]byte) {
 	sha256Hash.Write(data)
 	return sha256Hash.Sum(nil)
 }
-=======
->>>>>>> origin/hrx

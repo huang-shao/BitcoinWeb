@@ -1,11 +1,8 @@
 package controllers
 
 import (
-<<<<<<< HEAD
+
 	"BitcoinWeb/models"
-=======
-	"beegoText/models"
->>>>>>> origin/hrx
 	"fmt"
 	"github.com/astaxie/beego"
 )
@@ -40,9 +37,6 @@ func (l *LoginController) Post() {
 	}
 	//登录成功,跳转项目核心功能页面（home.html)
 	l.Data["Phone"] = u.Phone
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/hrx
 	l.TplName = "home.html"//{{.Phone}}
 }

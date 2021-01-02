@@ -1,8 +1,5 @@
-<<<<<<< HEAD
- package test
-=======
 package test
->>>>>>> origin/hrx
+
 
 import (
 	"net/http"
@@ -10,11 +7,11 @@ import (
 	"testing"
 	"runtime"
 	"path/filepath"
-<<<<<<< HEAD
+
 	_ "BitcoinWeb/routers"
-=======
+
 	_ "beegoText/routers"
->>>>>>> origin/hrx
+
 
 	"github.com/astaxie/beego"
 	. "github.com/smartystreets/goconvey/convey"
