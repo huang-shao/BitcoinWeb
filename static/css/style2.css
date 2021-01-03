@@ -94,13 +94,13 @@ a {
 }
 
 .menu {
-<<<<<<< HEAD
+
 
     display: flex;
     width: 500px;
-=======
+
     display: flex;
->>>>>>> origin/hrx
+
     flex-direction: column;
 }
 
